@@ -1,0 +1,76 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "photo_url": "https://i.pinimg.com/474x/b8/39/6a/b8396ae14a3b9cb506668dabdd462cfd.jpg",
+      "years_of_experience": 10,
+      "number_of_recipes": 150,
+      "likes": 5000,
+      "bio": "John Doe is a seasoned chef with a passion for creating culinary masterpieces. With a remarkable 10 years of experience in the culinary world, John has become a household name known for his innovative and delicious recipes. His extensive repertoire includes 150 carefully crafted dishes that have garnered widespread acclaim, accumulating an impressive 5000 likes from food enthusiasts around the globe. John's dedication to the art of cooking is evident in every dish he prepares, making him a true maestro in the kitchen."
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "photo_url": "https://i.pinimg.com/474x/7c/09/7e/7c097efcedb0f63088f22b6409e4c1bd.jpg",
+      "years_of_experience": 8,
+      "number_of_recipes": 120,
+      "likes": 4500,
+      "bio": "Meet Jane Smith, an accomplished chef with a flair for creating culinary wonders. With 8 years of experience in the culinary industry, Jane has established herself as a culinary artist with a unique perspective on flavors and presentation. Her portfolio boasts an impressive 120 carefully curated recipes, each a testament to her creativity and expertise. Jane's dishes have garnered 4500 likes, a testament to her ability to capture the hearts and taste buds of food enthusiasts. Through her culinary journey, Jane continues to inspire and delight with her passion for creating memorable dining experiences."
+    },
+    {
+      "id": 3,
+      "name": "James Johnson",
+      "photo_url": "https://i.pinimg.com/474x/07/6f/59/076f59f263af595a9fd5067be1d04e0c.jpg",
+      "years_of_experience": 12,
+      "number_of_recipes": 180,
+      "likes": 6000,
+      "bio": "James Johnson is a culinary virtuoso with an impressive 12 years of experience in the world of gastronomy. Known for his unwavering commitment to culinary excellence, James has crafted 180 exceptional recipes that showcase his creativity and expertise. With 6000 likes to his name, James has captured the admiration of food enthusiasts worldwide. His culinary journey reflects a passion for pushing boundaries and delivering unparalleled dining experiences. James Johnson, a name synonymous with culinary innovation, continues to leave an indelible mark on the world of gourmet cuisine."
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "photo_url": "https://i.pinimg.com/236x/de/48/f1/de48f11e1352ecb04af5e709015d47c2.jpg",
+      "years_of_experience": 6,
+      "number_of_recipes": 90,
+      "likes": 3000,
+      "bio": "Emily Davis, a rising star in the culinary scene, brings her fresh perspective to the world of cooking. With 6 years of hands-on experience, Emily has curated a collection of 90 delightful recipes that showcase her unique approach to flavors and presentation. Garnering 3000 likes, Emily's creations have captivated the palates of food enthusiasts. Her culinary journey is marked by a dedication to exploring new culinary horizons and bringing joy to those who savor her dishes. Emily Davis, a chef on the ascent, invites you to experience a world of flavors through her expertly crafted recipes."
+    },
+    {
+      "id": 5,
+      "name": "Michael Brown",
+      "photo_url": "https://i.pinimg.com/236x/12/ac/60/12ac606896dfc98f4806b7acababed67.jpg",
+      "years_of_experience": 15,
+      "number_of_recipes": 200,
+      "likes": 8000,
+      "bio": "Michael Brown, a culinary veteran with an illustrious 15-year journey, is a name synonymous with gastronomic excellence. With an extensive repertoire of 200 meticulously crafted recipes, Michael has left an indelible mark on the culinary landscape. Boasting a remarkable 8000 likes, his creations have garnered widespread acclaim and appreciation. Michael's wealth of experience is reflected in his ability to deliver culinary experiences that transcend the ordinary. A true maestro in the kitchen, Michael Brown invites you to embark on a culinary adventure filled with flavors that tell a story of passion and expertise."
+    },
+    {
+      "id": 6,
+      "name": "Sarah Wilson",
+      "photo_url": "https://i.pinimg.com/236x/32/5a/13/325a1381f5d8c774301c8a734c07455a.jpg",
+      "years_of_experience": 9,
+      "number_of_recipes": 130,
+      "likes": 4800,
+      "bio": "Sarah Wilson, a culinary artist with 9 years of expertise, invites you into her world of flavors and creativity. Known for her innovative approach to cooking, Sarah has curated a diverse collection of 130 recipes that showcase her culinary prowess. With 4800 likes from discerning food enthusiasts, Sarah's dishes are a celebration of passion and dedication. Through her culinary journey, Sarah Wilson continues to push boundaries, creating dishes that not only satisfy the taste buds but also tell a story of culinary exploration and artistry."
+    },
+    {
+      "id": 7,
+      "name": "Robert Miller",
+      "photo_url": "https://i.pinimg.com/236x/03/e6/56/03e656f003292f2245165bf505459af2.jpg",
+      "years_of_experience": 11,
+      "number_of_recipes": 160,
+      "likes": 5500,
+      "bio": "Robert Miller, an accomplished chef with 11 years of culinary expertise, brings a blend of tradition and innovation to the table. With a portfolio boasting 160 thoughtfully curated recipes, Robert has earned the admiration of food enthusiasts worldwide, amassing 5500 likes. His culinary creations reflect a deep understanding of flavors and a commitment to delivering memorable dining experiences. Robert Miller, a name synonymous with culinary excellence, invites you to savor the richness of his culinary journey and explore a world of gastronomic delights."
+    },
+    {
+      "id": 8,
+      "name": "Olivia Taylor",
+      "photo_url": "https://i.pinimg.com/564x/52/38/3d/52383d0068633a4a79abbca9ff5d61e3.jpg",
+      "years_of_experience": 7,
+      "number_of_recipes": 110,
+      "likes": 4000,
+      "bio": "Olivia Taylor, a culinary virtuoso with 7 years of experience, invites you to indulge in a world of exquisite flavors and culinary expertise. With a portfolio of 110 meticulously crafted recipes, Olivia has earned the admiration of food enthusiasts around the globe, accumulating 4000 likes. Her culinary journey is marked by a commitment to innovation and a passion for creating dishes that captivate the senses. Olivia Taylor, a name synonymous with culinary finesse, welcomes you to savor the artistry and dedication embedded in each of her delightful creations."
+    }
+  ]
+  
+  

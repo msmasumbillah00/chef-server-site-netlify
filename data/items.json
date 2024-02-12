@@ -1,0 +1,1088 @@
+[
+        {
+          "id": 1,
+          "rating":4.5,
+          "recipe_name": "Spaghetti Bolognese",
+          "chef_id": 1,
+          "chef_name": "John Doe",
+          "photo": "https://i.pinimg.com/564x/39/30/26/3930269ef2be9e70e52efe9d9dc88347.jpg",
+          "description": "Spaghetti Bolognese is a beloved Italian pasta dish that features al dente spaghetti topped with a flavorful meat sauce. The sauce is a slow-cooked blend of ground beef, tomatoes, onions, garlic, and herbs. Chef Maria Rodriguez, with her expertise in Italian cuisine, crafts this dish to perfection. The result is a comforting and satisfying meal that has become a staple in many households worldwide.",
+          "ingredients": [
+            "Ground beef",
+            "Tomatoes",
+            "Onion",
+            "Garlic",
+            "Italian herbs"
+          ],
+          "cooking_method": "1. Brown ground beef. 2. Sauté onions and garlic. 3. Add tomatoes and herbs. 4. Simmer for a rich sauce. 5. Serve over cooked spaghetti."
+        },
+        {
+          "id": 2,
+          "rating":3.5,
+          "recipe_name": "Sushi Platter",
+          "chef_id": 1,
+          "chef_name": "John Doe",
+          "photo": "https://i.pinimg.com/736x/e5/bd/63/e5bd6347d2ff7c71be0bce48f303a820.jpg",
+          "description": "Indulge in the art of Japanese cuisine with our exquisite Sushi Platter. Chef Kenji Tanaka, a master sushi chef, selects the finest quality fish and combines them with perfectly seasoned rice and seaweed. This platter features a variety of rolls, from traditional California rolls to innovative creations. The result is a symphony of flavors and textures that showcase the precision and skill of Chef Tanaka's culinary expertise.",
+          "ingredients": [
+            "Sushi rice",
+            "Nori (seaweed)",
+            "Various fresh fish (salmon, tuna, etc.)",
+            "Avocado",
+            "Soy sauce"
+          ],
+          "cooking_method": "1. Prepare sushi rice. 2. Slice fish and avocado. 3. Lay out nori sheets. 4. Roll ingredients into sushi rolls. 5. Cut into bite-sized pieces and serve with soy sauce."
+        },
+        {
+          "id": 3,
+          "rating":5,
+          "recipe_name": "Chicken Alfredo",
+          "chef_id": 1,
+          "chef_name": "John Doe",
+          "photo": "https://i.pinimg.com/236x/06/6c/1b/066c1b0e86aa282ba34b99885dfe9e67.jpg",
+          "description": "Savor the richness of our Chicken Alfredo, a delightful fusion of tender chicken breast, fettuccine pasta, and a velvety Alfredo sauce. Chef Emily Johnson, known for her mastery in Italian-American cuisine, expertly balances the creamy sauce with the savory chicken. Each bite is a harmonious blend of flavors, making this dish a comforting and indulgent choice for those seeking a satisfying pasta experience.",
+          "ingredients": [
+            "Fettuccine pasta",
+            "Chicken breast",
+            "Heavy cream",
+            "Parmesan cheese",
+            "Butter"
+          ],
+          "cooking_method": "1. Cook fettuccine pasta. 2. Sauté chicken until cooked. 3. Add heavy cream, Parmesan, and butter. 4. Mix until creamy. 5. Toss with cooked pasta and serve."
+        },
+        {
+          "id": 4,
+          "rating":5,
+          "recipe_name": "Mango Sticky Rice",
+          "chef_id": 1,
+          "chef_name": "John Doe",
+          "photo": "https://i.pinimg.com/236x/ad/64/57/ad6457e7dee6925ce7ac85fa7a9fbbed.jpg",
+          "description": "Experience the tropical delight of Mango Sticky Rice, a beloved Thai dessert created by Chef Somsak Khun. This sweet and fragrant dish combines perfectly cooked sticky rice with ripe mango slices, drizzled with coconut milk and sprinkled with sesame seeds. Chef Khun's meticulous attention to detail ensures a delightful balance of textures and flavors, making this dessert a refreshing and satisfying conclusion to any meal.",
+          "ingredients": [
+            "Sticky rice",
+            "Ripe mango",
+            "Coconut milk",
+            "Sesame seeds",
+            "Sugar"
+          ],
+          "cooking_method": "1. Cook sticky rice. 2. Slice ripe mango. 3. Drizzle coconut milk over rice. 4. Sprinkle with sesame seeds. 5. Serve with sliced mango."
+        },
+        {
+          "id": 5,
+          "rating":4.5,
+          "recipe_name": "Grilled Salmon with Lemon-Dill Sauce",
+          "chef_id": 1,
+          "chef_name": "John Doe",
+          "photo": "https://i.pinimg.com/236x/53/e4/8b/53e48bc8185deca6f6ac7b8f44c7411c.jpg",
+          "description": "Indulge in the healthy and flavorful Grilled Salmon with Lemon-Dill Sauce, a creation by Chef Olivia Martinez. The salmon fillet is expertly grilled to perfection, resulting in a crispy exterior and tender, moist interior. Chef Martinez's signature lemon-dill sauce adds a burst of freshness and complements the natural richness of the salmon. This dish is a testament to Chef Martinez's commitment to creating dishes that are both delicious and nourishing.",
+          "ingredients": [
+            "Salmon fillet",
+            "Lemon",
+            "Dill",
+            "Olive oil",
+            "Salt and pepper"
+          ],
+          "cooking_method": "1. Season salmon with salt and pepper. 2. Grill until crispy. 3. Prepare lemon-dill sauce. 4. Drizzle sauce over grilled salmon. 5. Garnish with fresh dill and lemon slices."
+        },      
+        {
+            "id": 6,
+            "rating":4,
+            "recipe_name": "Caprese Salad",
+            "chef_id": 1,
+            "chef_name": "John Doe",
+            "photo": "https://i.pinimg.com/236x/70/f8/93/70f893bd8b4b63449771fb5562bfae55.jpg",
+            "description": "Enjoy the simplicity and elegance of the Caprese Salad, crafted by Chef Alessandro Russo. This classic Italian salad features ripe tomatoes, creamy mozzarella, and fragrant basil, drizzled with extra virgin olive oil. Chef Russo's dedication to using the finest and freshest ingredients ensures that each bite is a celebration of the flavors of Italy. The Caprese Salad is a refreshing and light option, perfect as a starter or a side dish for any occasion.",
+            "ingredients": [
+              "Ripe tomatoes",
+              "Fresh mozzarella",
+              "Basil leaves",
+              "Extra virgin olive oil",
+              "Balsamic glaze"
+            ],
+            "cooking_method": "1. Slice tomatoes and mozzarella. 2. Arrange on a plate. 3. Garnish with basil leaves. 4. Drizzle with olive oil and balsamic glaze. 5. Serve chilled."
+          },
+          {
+            "id": 7,
+            "rating":4.5,
+            "recipe_name": "Beef Tacos",
+            "chef_id": 1,
+            "chef_name": "John Doe",
+            "photo": "https://i.pinimg.com/564x/fa/da/78/fada78bab6e5d6c0976cc07d9af028e8.jpg",
+            "description": "Satisfy your craving for authentic Mexican flavors with our Beef Tacos, expertly crafted by Chef Carlos Hernandez. Tender and seasoned beef is nestled in soft corn tortillas, topped with diced onions, fresh cilantro, and a squeeze of lime. Chef Hernandez's passion for traditional Mexican street food shines through in every aspect of this dish, from the perfectly spiced beef to the handmade tortillas. These tacos are a fiesta of flavors that will transport you straight to the vibrant streets of Mexico.",
+            "ingredients": [
+              "Beef (ground or steak)",
+              "Corn tortillas",
+              "Onion",
+              "Cilantro",
+              "Lime"
+            ],
+            "cooking_method": "1. Season and cook beef. 2. Warm corn tortillas. 3. Fill tortillas with beef. 4. Top with diced onions and cilantro. 5. Squeeze lime over the tacos. 6. Enjoy!"
+          },
+          {
+            "id": 8,
+            "rating":3.5,
+            "recipe_name": "Vegetarian Buddha Bowl",
+            "chef_id": 1,
+            "chef_name": "John Doe",
+            "photo": "https://i.pinimg.com/564x/2f/88/6a/2f886a2c26919593cb658e76664708e0.jpg",
+            "description": "Experience a harmonious blend of flavors and nutrients with our Vegetarian Buddha Bowl, curated by Chef Sarah Thompson. This nourishing bowl features a base of quinoa, topped with a colorful array of roasted vegetables, sliced avocado, and a drizzle of tahini dressing. Chef Thompson's commitment to wholesome and flavorful vegetarian cuisine is evident in every component of this bowl, making it a satisfying and health-conscious choice for those seeking a plant-based culinary experience.",
+            "ingredients": [
+              "Quinoa",
+              "Assorted vegetables (carrots, broccoli, bell peppers)",
+              "Avocado",
+              "Tahini",
+              "Olive oil"
+            ],
+            "cooking_method": "1. Cook quinoa according to package instructions. 2. Roast assorted vegetables. 3. Slice avocado. 4. Arrange quinoa, vegetables, and avocado in a bowl. 5. Drizzle with tahini dressing and olive oil. 6. Toss gently and enjoy."
+          },
+          {
+            "id": 9,
+            "rating":5,
+            "recipe_name": "Chocolate Fondue",
+            "chef_id": 1,
+            "chef_name": "John Doe",
+            "photo": "https://i.pinimg.com/564x/b0/ae/66/b0ae6629c17c7fccd62fb37bece0f123.jpg",
+            "description": "Indulge your sweet tooth with our decadent Chocolate Fondue, crafted by Pastry Chef Isabella Rodriguez. This delightful dessert features rich and velvety chocolate fondue served with a variety of dippable treats, including strawberries, bananas, marshmallows, and bite-sized pieces of cake. Chef Rodriguez's artistry in dessert creation is evident in the balance of sweetness and textures, making this Chocolate Fondue a perfect choice for sharing and satisfying your dessert cravings.",
+            "ingredients": [
+              "Chocolate (dark or milk)",
+              "Strawberries",
+              "Bananas",
+              "Marshmallows",
+              "Assorted cake pieces"
+            ],
+            "cooking_method": "1. Melt chocolate in a fondue pot. 2. Arrange dippable treats on serving plates. 3. Use fondue forks to dip treats into the melted chocolate. 4. Enjoy the sweet indulgence!"
+          },
+          {
+            "id": 10,
+            "rating":5,
+            "recipe_name": "Chicken Pad Thai",
+            "chef_id": 1,
+            "chef_name": "John Doe",
+            "photo": "https://i.pinimg.com/564x/3d/3b/f8/3d3bf86ec5d926a7c05fee507682736b.jpg",
+            "description": "Experience the bold and vibrant flavors of Thailand with our Chicken Pad Thai, a culinary masterpiece by Chef Nongkran Siri. This iconic Thai dish features stir-fried rice noodles, succulent chicken, tofu, peanuts, bean sprouts, and a zesty lime garnish. Chef Siri's expertise in Thai cuisine ensures an authentic and mouthwatering experience, with the perfect balance of sweet, sour, salty, and spicy notes. Chicken Pad Thai is a celebration of Thai street food that will transport your taste buds to the bustling markets of Bangkok.",
+            "ingredients": [
+              "Rice noodles",
+              "Chicken breast",
+              "Tofu",
+              "Peanuts",
+              "Bean sprouts"
+            ],
+            "cooking_method": "1. Cook rice noodles according to package instructions. 2. Stir-fry chicken, tofu, and peanuts. 3. Add cooked noodles and bean sprouts. 4. Toss in Pad Thai sauce. 5. Garnish with lime and enjoy!"
+          },
+          {
+            "id": 11,
+            "rating":4.5,
+            "recipe_name": "Margherita Pizza",
+            "chef_id": 2,
+            "chef_name": "Jane Smith",
+            "photo": "https://i.pinimg.com/564x/27/75/1c/27751c0e051ddb00798652f803bbfc76.jpg",
+            "description": "Indulge in the simplicity of the Margherita Pizza, a timeless creation by Chef Giovanni Rossi. This classic Italian pizza features a thin crust topped with flavorful tomato sauce, fresh mozzarella cheese, and aromatic basil leaves. Chef Rossi's dedication to traditional pizza-making techniques ensures a perfect balance of textures and flavors in every slice. The Margherita Pizza is a celebration of the essence of Italian cuisine, offering a delightful experience for pizza enthusiasts.",
+            "ingredients": [
+              "Pizza dough",
+              "Tomato sauce",
+              "Fresh mozzarella",
+              "Basil leaves",
+              "Olive oil"
+            ],
+            "cooking_method": "1. Roll out pizza dough. 2. Spread tomato sauce on the dough. 3. Add fresh mozzarella and basil leaves. 4. Drizzle with olive oil. 5. Bake until crust is golden. 6. Slice and enjoy!"
+          },
+          {
+            "id": 12,
+            "rating":3.5,
+            "recipe_name": "Shrimp Scampi Pasta",
+            "chef_id": 2,
+            "chef_name": "Jane Smith",
+            "photo": "https://i.pinimg.com/564x/3a/34/7f/3a347f379b0903df283b21cde2c3d21b.jpg",
+            "description": "Savor the exquisite flavors of our Shrimp Scampi Pasta, a culinary delight by Chef Isabella Romano. Succulent shrimp are sautéed in a garlic and white wine sauce, then tossed with al dente linguine pasta. Chef Romano's expertise in seafood dishes shines through in the perfect balance of flavors, creating a dish that is both elegant and satisfying. The Shrimp Scampi Pasta is a testament to Chef Romano's commitment to creating memorable dining experiences.",
+            "ingredients": [
+              "Shrimp",
+              "Linguine pasta",
+              "Garlic",
+              "White wine",
+              "Butter"
+            ],
+            "cooking_method": "1. Cook linguine pasta until al dente. 2. Sauté shrimp in garlic and butter. 3. Deglaze with white wine. 4. Toss cooked pasta with the shrimp mixture. 5. Garnish with parsley and enjoy!"
+          },
+          {
+            "id": 13,
+            "rating":3,
+            "recipe_name": "Mediterranean Quinoa Salad",
+            "chef_id": 2,
+            "chef_name": "Jane Smith",
+            "photo": "https://i.pinimg.com/564x/5d/ad/79/5dad7919a23d8689df55513dc7f53b2f.jpg",
+            "description": "Experience a burst of freshness with our Mediterranean Quinoa Salad, carefully curated by Chef Sophia Costa. This nourishing salad features fluffy quinoa, vibrant cherry tomatoes, crisp cucumber, and creamy feta cheese, all tossed in a lemon vinaigrette. Chef Costa's dedication to creating healthy and flavorful salads is evident in every bite, making this Mediterranean Quinoa Salad a perfect choice for those seeking a light and wholesome meal.",
+            "ingredients": [
+              "Quinoa",
+              "Cherry tomatoes",
+              "Cucumber",
+              "Feta cheese",
+              "Lemon"
+            ],
+            "cooking_method": "1. Cook quinoa according to package instructions. 2. Chop cherry tomatoes and cucumber. 3. Mix quinoa, tomatoes, cucumber, and feta. 4. Drizzle with lemon vinaigrette. 5. Toss gently and serve."
+          },
+          {
+            "id": 14,
+            "rating":5,
+            "recipe_name": "Teriyaki Chicken Bowl",
+            "chef_id": 2,
+            "chef_name": "Jane Smith",
+            "photo": "https://i.pinimg.com/564x/5d/ad/79/5dad7919a23d8689df55513dc7f53b2f.jpg",
+            "description": "Delight in the savory flavors of our Teriyaki Chicken Bowl, a culinary creation by Chef Hiroshi Takahashi. Tender teriyaki chicken is expertly grilled and served over a bed of steamed rice, accompanied by a medley of crisp vegetables. Chef Takahashi's mastery of Japanese cuisine ensures a harmonious blend of sweet and savory in every bite. The Teriyaki Chicken Bowl is a satisfying and comforting dish that showcases Chef Takahashi's commitment to authenticity and excellence.",
+            "ingredients": [
+            "Chicken thighs",
+            "Soy sauce",
+            "Mirin",
+            "Brown sugar",
+            "Vegetables (broccoli, bell peppers, carrots)"
+            ],
+            "cooking_method": "1. Marinate chicken thighs in soy sauce, mirin, and brown sugar. 2. Grill chicken until cooked. 3. Steam rice. 4. Stir-fry vegetables. 5. Assemble bowl with rice, grilled chicken, and stir-fried vegetables. 6. Drizzle with extra teriyaki sauce if desired. 7. Enjoy!"
+            },
+            {
+            "id": 15,
+            "rating":4,
+            "recipe_name": "Eggplant Parmesan",
+            "chef_id": 2,
+            "chef_name": "Jane Smith",
+            "photo": "https://i.pinimg.com/564x/93/e4/4d/93e44d6e0db8bd100be26ccaf379195d.jpg",
+            "description": "Indulge in the comforting flavors of Eggplant Parmesan, a classic Italian dish by Chef Marco DeLuca. Thick slices of eggplant are breaded, baked to perfection, and layered with marinara sauce and melted cheese. Chef DeLuca's attention to detail ensures a crispy exterior and a tender, flavorful interior in every bite. The Eggplant Parmesan is a hearty and satisfying dish that captures the essence of home-cooked Italian comfort food.",
+            "ingredients": [
+            "Eggplant",
+            "Breadcrumbs",
+            "Marinara sauce",
+            "Mozzarella cheese",
+            "Parmesan cheese"
+            ],
+            "cooking_method": "1. Slice and bread eggplant. 2. Bake until golden. 3. Layer with marinara sauce and cheeses. 4. Bake until cheese is melted. 5. Garnish with fresh basil. 6. Serve and enjoy!"
+            },
+            {
+                "id": 16,
+                "rating":5,
+                "recipe_name": "BBQ Pulled Pork Sandwich",
+                "chef_id": 2,
+                "chef_name": "Jane Smith",
+                "photo": "https://i.pinimg.com/564x/93/e4/4d/93e44d6e0db8bd100be26ccaf379195d.jpg",
+                "description": "Satisfy your barbecue cravings with our BBQ Pulled Pork Sandwich, a mouthwatering creation by Chef Jackson Turner. Succulent pulled pork is slow-cooked to perfection and generously coated in smoky barbecue sauce, then sandwiched between a soft bun. Chef Turner's passion for bold flavors and expert barbecue techniques shines through in every bite. The BBQ Pulled Pork Sandwich is a perfect blend of savory, sweet, and smoky, making it a favorite for barbecue enthusiasts.",
+                "ingredients": [
+                  "Pulled pork",
+                  "Barbecue sauce",
+                  "Soft buns",
+                  "Coleslaw",
+                  "Pickles"
+                ],
+                "cooking_method": "1. Slow-cook pulled pork until tender. 2. Coat pulled pork in barbecue sauce. 3. Toast soft buns. 4. Assemble sandwich with pulled pork, coleslaw, and pickles. 5. Serve and enjoy!"
+              },
+              {
+                "id": 17,
+                "rating":3.5,
+                "recipe_name": "Vegetable Stir-Fry",
+                "chef_id": 2,
+                "chef_name": "Jane Smith",
+                "photo": "https://i.pinimg.com/564x/e4/cf/d2/e4cfd2f592979118df104bfe3c61905e.jpg",
+                "description": "Experience the vibrant flavors of our Vegetable Stir-Fry, a wok-tossed masterpiece by Chef Mei Lin. An array of colorful vegetables is stir-fried to perfection in a flavorful soy-ginger sauce, creating a dish that is both visually appealing and delicious. Chef Lin's expertise in Asian cuisine ensures a harmonious balance of textures and tastes. The Vegetable Stir-Fry is a wholesome and satisfying option for those seeking a delicious and nutritious meal.",
+                "ingredients": [
+                  "Broccoli",
+                  "Carrots",
+                  "Bell peppers",
+                  "Snap peas",
+                  "Soy-ginger sauce"
+                ],
+                "cooking_method": "1. Wok-toss colorful vegetables until tender-crisp. 2. Add soy-ginger sauce for flavor. 3. Serve hot as a side or over rice."
+              },
+              {
+                "id": 18,
+                "rating":4,
+                "recipe_name": "Lemon Blueberry Cheesecake",
+                "chef_id": 2,
+                "chef_name": "Jane Smith",
+                "photo": "https://i.pinimg.com/564x/48/e2/1b/48e21b6564abdacf8c1a989c5cdeccc8.jpg",
+                "description": "Indulge your sweet tooth with our exquisite Lemon Blueberry Cheesecake, a dessert masterpiece by Pastry Chef Elena Rodriguez. This creamy cheesecake features a luscious lemon-blueberry swirl, delicately layered atop a buttery graham cracker crust. Chef Rodriguez's artistry in dessert creation is evident in the perfect balance of tartness and sweetness. The Lemon Blueberry Cheesecake is a decadent and delightful treat that will captivate your taste buds.",
+                "ingredients": [
+                  "Cream cheese",
+                  "Blueberries",
+                  "Lemon zest",
+                  "Sugar",
+                  "Graham cracker crust"
+                ],
+                "cooking_method": "1. Mix cream cheese, sugar, and lemon zest. 2. Swirl in blueberries. 3. Pour mixture over graham cracker crust. 4. Bake until set. 5. Chill and serve."
+              },
+              {
+                "id": 19,
+                "rating":4.5,
+                "recipe_name": "Cajun Shrimp Jambalaya",
+                "chef_id": 2,
+                "chef_name": "Jane Smith",
+                "photo": "https://i.pinimg.com/564x/80/6e/13/806e1325f48901da1b8c49b71a053517.jpg",
+                "description": "Embark on a flavor journey with our Cajun Shrimp Jambalaya, a zesty creation by Chef Antoine LeBlanc. Plump shrimp, andouille sausage, and aromatic Cajun spices come together in a spicy and flavorful jambalaya. Chef LeBlanc's expertise in Cajun cuisine ensures an authentic and soulful experience with each spoonful. The Cajun Shrimp Jambalaya is a celebration of bold flavors and Louisiana culinary traditions.",
+                "ingredients": [
+                  "Shrimp",
+                  "Andouille sausage",
+                  "Rice",
+                  "Tomatoes",
+                  "Cajun spices"
+                ],
+                "cooking_method": "1. Sauté andouille sausage. 2. Add shrimp, tomatoes, and Cajun spices. 3. Stir in cooked rice. 4. Simmer until flavors meld. 5. Serve hot and enjoy!"
+              },
+              {
+                "id": 20,
+                "rating":5,
+                "recipe_name": "Balaleet",
+                "chef_id": 3,
+                "chef_name": "James Johnson",
+                "photo": "https://i.pinimg.com/564x/18/a3/eb/18a3eb8035856f10f004b16cbe49b482.jpg",
+                "description": "Start your day with the unique flavors of Balaleet, a sweet and savory breakfast dish curated by Chef Nadia Al-Suwaidi. Vermicelli noodles are cooked with eggs and spices, creating a delightful combination of textures. Topped with a sprinkle of sugar, Balaleet is a dish that reflects the diversity of Emirati breakfast cuisine. Chef Al-Suwaidi's expertise ensures a Balaleet experience that is both comforting and full of flavor.",
+                "ingredients": [
+                  "Vermicelli noodles",
+                  "Eggs",
+                  "Spices",
+                  "Sugar",
+                  "Clarified butter"
+                ],
+                "cooking_method": "1. Cook vermicelli noodles until tender. 2. Scramble eggs with spices. 3. Combine noodles and eggs. 4. Top with sugar and clarified butter. 5. Serve warm and enjoy!"
+              },
+              {
+                "id": 21,
+                "rating":3.5,
+                "recipe_name": "Caprese Pizza",
+                "chef_id": 3,
+                "chef_name": "James Johnson",
+                "photo": "https://i.pinimg.com/564x/cb/56/cb/cb56cbe53f291fa3e107d961f3091c29.jpg",
+                "description": "Elevate your pizza experience with our Caprese Pizza, a culinary masterpiece by Chef Francesca Marino. The thin-crust pizza is adorned with slices of fresh tomatoes, creamy mozzarella, and a drizzle of balsamic glaze. Chef Marino's dedication to using high-quality ingredients ensures a perfect harmony of flavors in every bite. The Caprese Pizza is a delightful fusion of Italian flavors, making it a sophisticated and delicious choice for pizza enthusiasts.",
+                "ingredients": [
+                  "Pizza dough",
+                  "Fresh tomatoes",
+                  "Mozzarella cheese",
+                  "Balsamic glaze",
+                  "Fresh basil"
+                ],
+                "cooking_method": "1. Roll out pizza dough into a thin crust. 2. Arrange fresh tomatoes and mozzarella on the dough. 3. Bake until crust is golden and cheese is melted. 4. Drizzle with balsamic glaze. 5. Garnish with fresh basil. 6. Slice and enjoy!"
+              },
+              {
+                "id": 22,
+                "rating":4,
+                "recipe_name": "Lobster Ravioli",
+                "chef_id": 3,
+                "chef_name": "James Johnson",
+                "photo": "https://i.pinimg.com/736x/2c/54/c1/2c54c18c2bffcee2640a585ff103fde3.jpg",
+                "description": "Indulge in luxury with our Lobster Ravioli, a culinary creation by Chef Giovanni DeLuca. Each handmade ravioli is generously filled with succulent lobster meat and served in a creamy tomato sauce. Chef DeLuca's expertise in Italian seafood dishes ensures a perfect balance of richness and flavor in every bite. The Lobster Ravioli is a gourmet delight that showcases Chef DeLuca's commitment to fine Italian dining.",
+                "ingredients": [
+                  "Lobster meat",
+                  "Ravioli pasta",
+                  "Tomato sauce",
+                  "Cream",
+                  "Parmesan cheese"
+                ],
+                "cooking_method": "1. Fill ravioli with lobster meat. 2. Cook ravioli until tender. 3. Simmer tomato sauce with cream. 4. Serve ravioli in creamy tomato sauce. 5. Garnish with Parmesan cheese. 6. Enjoy this luxurious Italian dish!"
+              },
+              {
+                "id": 23,
+                "rating":4.5,
+                "recipe_name": "Mango Avocado Salsa",
+                "chef_id": 3,
+                "chef_name": "James Johnson",
+                "photo": "https://i.pinimg.com/564x/5a/d1/61/5ad161775a078d46f24ae0200634611e.jpg",
+                "description": "Brighten your palate with our Mango Avocado Salsa, a vibrant creation by Chef Gabriela Rodriguez. This refreshing salsa features the perfect blend of ripe mango, creamy avocado, red onion, and fresh cilantro. Chef Rodriguez's dedication to using seasonal and fresh ingredients ensures a burst of tropical flavors in every spoonful. The Mango Avocado Salsa is a versatile and delicious accompaniment, perfect for dipping or topping your favorite dishes.",
+                "ingredients": [
+                  "Ripe mango",
+                  "Avocado",
+                  "Red onion",
+                  "Cilantro",
+                  "Lime juice"
+                ],
+                "cooking_method": "1. Dice mango, avocado, and red onion. 2. Chop cilantro. 3. Mix ingredients and add lime juice. 4. Refrigerate for flavors to meld. 5. Serve as a dip or topping."
+              },
+              {
+                "id": 24,
+                "rating":5,
+                "recipe_name": "Tandoori Chicken Naan Wrap",
+                "chef_id": 3,
+                "chef_name": "James Johnson",
+                "photo": "https://i.pinimg.com/564x/c9/55/81/c955818ae0338a1e6e4ff8c39995599a.jpg",
+                "description": "Experience the bold flavors of India with our Tandoori Chicken Naan Wrap, a culinary delight by Chef Raj Patel. Tandoori-spiced chicken is grilled to perfection and wrapped in warm naan bread, accompanied by a tangy yogurt sauce and fresh veggies. Chef Patel's expertise in Indian cuisine ensures an authentic and satisfying experience, with the perfect balance of spices and textures. The Tandoori Chicken Naan Wrap is a flavorful and hearty option for those craving Indian-inspired street food.",
+                "ingredients": [
+                  "Chicken breast",
+                  "Tandoori spice blend",
+                  "Naan bread",
+                  "Yogurt sauce",
+                  "Fresh vegetables"
+                ],
+                "cooking_method": "1. Marinate chicken in tandoori spice blend. 2. Grill chicken until fully cooked. 3. Warm naan bread. 4. Assemble wrap with chicken, yogurt sauce, and veggies. 5. Roll and enjoy the taste of India!"
+              },
+              {
+                "id": 25,
+                "rating":5,
+                "recipe_name": "Spinach and Feta Stuffed Chicken Breast",
+                "chef_id": 3,
+                "chef_name": "James Johnson",
+                "photo": "https://i.pinimg.com/736x/e9/9c/b2/e99cb2303dadfc1dad6102174091f0a1.jpg",
+                "description": "Delight your taste buds with our Spinach and Feta Stuffed Chicken Breast, a gourmet creation by Chef Isabella Moretti. Each tender chicken breast is skillfully stuffed with a flavorful combination of spinach, feta cheese, and sun-dried tomatoes, then oven-baked to perfection. Chef Moretti's expertise in Mediterranean-inspired dishes ensures a burst of savory goodness in every bite. The Spinach and Feta StuffedChicken Breast is a sophisticated and satisfying entrée for those seeking a culinary indulgence.",
+                "ingredients": [
+                "Chicken breast",
+                "Spinach",
+                "Feta cheese",
+                "Sun-dried tomatoes",
+                "Olive oil"
+                ],
+                "cooking_method": "1. Butterfly chicken breast. 2. Season with salt and pepper. 3. Layer with spinach, feta, and sun-dried tomatoes. 4. Fold and secure with toothpicks. 5. Bake until chicken is cooked through. 6. Drizzle with olive oil. 7. Enjoy this Mediterranean-inspired delight!"
+                },
+                {
+                "id": 26,
+                "rating":4.5,
+                "recipe_name": "Cuban Mojo Pork Sandwich",
+                "chef_id": 3,
+                "chef_name": "James Johnson",
+                "photo": "https://i.pinimg.com/564x/56/f4/54/56f4543e9978165f72fa89e20ad6191d.jpg",
+                "description": "Transport your taste buds to the streets of Havana with our Cuban Mojo Pork Sandwich, a flavorful creation by Chef Miguel Rodriguez. Succulent mojo-marinated pork is slow-roasted to perfection and served in a crusty Cuban bread, topped with pickles and mustard. Chef Rodriguez's passion for Cuban cuisine shines through in the authentic flavors and textures of this sandwich. The Cuban Mojo Pork Sandwich is a savory and satisfying choice for those craving the bold taste of Cuban street food.",
+                "ingredients": [
+                "Pork shoulder",
+                "Mojo marinade",
+                "Cuban bread",
+                "Pickles",
+                "Mustard"
+                ],
+                "cooking_method": "1. Marinate pork shoulder in mojo marinade. 2. Slow-roast until tender. 3. Shred pork and assemble sandwich. 4. Top with pickles and mustard. 5. Press in a panini press or grill until bread is crispy. 6. Enjoy the flavors of Havana!"
+                },
+                {
+                    "id": 27,
+                    "rating":4.5,
+                    "recipe_name": "Quinoa and Black Bean Stuffed Peppers",
+                    "chef_id": 3,
+                    "chef_name": "James Johnson",
+                    "photo": "https://i.pinimg.com/564x/bb/49/fe/bb49fe76ad869ebd55bf0eb0dacd1d1e.jpg",
+                    "description": "Embrace a healthy and flavorful option with our Quinoa and Black Bean Stuffed Peppers, a nourishing creation by Chef Elena Garcia. Colorful bell peppers are generously filled with a hearty mixture of quinoa, black beans, corn, and aromatic spices. Chef Garcia's commitment to wholesome ingredients ensures a well-balanced and delicious meal. The Quinoa and Black Bean Stuffed Peppers are a satisfying and nutritious choice for those seeking a plant-based culinary experience.",
+                    "ingredients": [
+                      "Bell peppers",
+                      "Quinoa",
+                      "Black beans",
+                      "Corn",
+                      "Aromatic spices"
+                    ],
+                    "cooking_method": "1. Cook quinoa and black beans. 2. Mix quinoa, black beans, corn, and aromatic spices. 3. Stuff bell peppers with the mixture. 4. Bake until peppers are tender. 5. Serve and enjoy this healthy and flavorful dish!"
+                  },
+                  {
+                    "id": 28,
+                    "rating":3.5,
+                    "recipe_name": "Mint Chocolate Chip Ice Cream",
+                    "chef_id": 3,
+                    "chef_name": "James Johnson",
+                    "photo": "https://i.pinimg.com/564x/e0/1f/90/e01f902f9244e286bfa7e849f95bba19.jpg",
+                    "description": "Indulge in the cool and refreshing taste of our Mint Chocolate Chip Ice Cream, a delightful creation by Pastry Chef Olivia Thompson. Creamy mint-flavored ice cream is studded with generous amounts of chocolate chips, creating a perfect balance of sweet and refreshing flavors. Chef Thompson's expertise in frozen treats ensures a smooth and velvety texture in every scoop. The Mint Chocolate Chip Ice Cream is a classic and beloved dessert that will satisfy your sweet cravings.",
+                    "ingredients": [
+                      "Mint ice cream base",
+                      "Chocolate chips",
+                      "Vanilla extract",
+                      "Mint extract",
+                      "Sugar"
+                    ],
+                    "cooking_method": "1. Churn mint ice cream base in an ice cream maker. 2. Add chocolate chips, vanilla extract, and mint extract. 3. Freeze until set. 4. Scoop and enjoy this refreshing and indulgent treat!"
+                  },
+                  {
+                    "id": 29,
+                    "rating":3.5,
+                    "recipe_name": "Moroccan Lamb Tagine",
+                    "chef_id": 3,
+                    "chef_name": "James Johnson",
+                    "photo": "https://i.pinimg.com/564x/ec/50/9a/ec509a91bd9b093b5751e6ef45013ff7.jpg",
+                    "description": "Embark on a culinary journey to Morocco with our Moroccan Lamb Tagine, a savory creation by Chef Fatima Hassan. Tender lamb is slow-cooked to perfection in a flavorful stew with apricots, almonds, and aromatic Moroccan spices. Chef Hassan's expertise in North African cuisine ensures an authentic and soulful experience, with a rich and complex flavor profile. The Moroccan Lamb Tagine is a hearty and satisfying dish that pays homage to the culinary traditions of Morocco.",
+                    "ingredients": [
+                      "Lamb",
+                      "Apricots",
+                      "Almonds",
+                      "Moroccan spices",
+                      "Vegetables"
+                    ],
+                    "cooking_method": "1. Slow-cook lamb with apricots, almonds, Moroccan spices, and vegetables. 2. Simmer until lamb is tender. 3. Serve and savor the flavors of Morocco!"
+                  },
+                  {
+                    "id": 30,
+                    "rating":4,
+                    "recipe_name": "Lugaimat",
+                    "chef_id": 4,
+                    "chef_name": "Emily Davis",
+                    "photo": "https://i.pinimg.com/564x/11/59/ac/1159ac1d612be6270d51d7c040f32cf1.jpg",
+                    "description": "Celebrate festive occasions with the delightful taste of Lugaimat, sweet dumplings curated by Chef Salma Al-Mazrouei. Similar to Luqaimat, these bite-sized treats are deep-fried and drizzled with date syrup or honey, creating a dessert that is both traditional and sweet. Chef Al-Mazrouei's expertise in Emirati sweets ensures a Lugaimat experience that adds joy to special moments and celebrations in Dubai.",
+                    "ingredients": [
+                      "Flour",
+                      "Yeast",
+                      "Date syrup",
+                      "Honey",
+                      "Sesame seeds"
+                    ],
+                    "cooking_method": "1. Mix flour and yeast to form a dough. 2. Shape into small dumplings. 3. Deep-fry until golden brown. 4. Drizzle with date syrup or honey. 5. Sprinkle with sesame seeds. 6. Enjoy these sweet dumplings for a festive treat!"
+        },
+        {
+            "id": 31,
+            "rating":4,
+            "recipe_name": "Crispy Duck Confit",
+            "chef_id": 4,
+            "chef_name": "Emily Davis",
+            "photo": "https://i.pinimg.com/564x/95/d2/d6/95d2d67e392980eefbb8983d78a26560.jpg",
+            "description": "Indulge in the luxurious flavors of our Crispy Duck Confit, a culinary masterpiece by Chef Jacques Dubois. The duck leg is meticulously slow-cooked in its own fat until achieving a crispy skin, then served with a tantalizing orange glaze. Chef Dubois's expertise in French cuisine ensures a perfect balance of richness and citrusy brightness in every bite. The Crispy Duck Confit is a sophisticated and succulent dish that embodies the essence of fine dining.",
+            "ingredients": [
+              "Duck legs",
+              "Duck fat",
+              "Orange glaze",
+              "Herbs and spices",
+              "Salt and pepper"
+            ],
+            "cooking_method": "1. Slow-cook duck legs in duck fat. 2. Roast until crispy. 3. Glaze with orange glaze. 4. Season with herbs, spices, salt, and pepper. 5. Serve and enjoy this luxurious French dish!"
+          },
+          {
+            "id": 32,
+            "rating":4.5,
+            "recipe_name": "Pesto Shrimp Linguine",
+            "chef_id": 4,
+            "chef_name": "Emily Davis",
+            "photo": "https://i.pinimg.com/564x/7b/f4/16/7bf4162e40772931afd3567038edd1ed.jpg",
+            "description": "Savor the fresh and aromatic flavors of our Pesto Shrimp Linguine, a delightful creation by Chef Isabella Rossi. Plump shrimp are tossed with al dente linguine pasta in a vibrant basil pesto sauce, creating a dish that is both light and flavorful. Chef Rossi's dedication to using high-quality ingredients ensures a burst of Mediterranean goodness in every forkful. The Pesto Shrimp Linguine is a perfect harmony of seafood and herbs, making it a favorite for pasta enthusiasts.",
+            "ingredients": [
+              "Shrimp",
+              "Linguine pasta",
+              "Basil pesto sauce",
+              "Parmesan cheese",
+              "Cherry tomatoes"
+            ],
+            "cooking_method": "1. Cook linguine pasta and set aside. 2. Sauté shrimp until cooked. 3. Toss cooked shrimp and linguine in basil pesto sauce. 4. Garnish with Parmesan cheese and cherry tomatoes. 5. Serve and enjoy this fresh and aromatic pasta dish!"
+          },
+          {
+            "id": 33,
+            "rating":4.5,
+            "recipe_name": "Korean BBQ Beef Bulgogi",
+            "chef_id": 4,
+            "chef_name": "Emily Davis",
+            "photo": "https://i.pinimg.com/564x/d1/96/12/d1961264f6980635fead72b33249424f.jpg",
+            "description": "Embark on a journey to Korea with our Korean BBQ Beef Bulgogi, a tantalizing creation by Chef Ji-Yeon Park. Thinly sliced beef is marinated to perfection and grilled, resulting in a smoky and flavorful dish. Chef Park's expertise in Korean cuisine ensures an authentic balance of sweet and savory flavors, creating a mouthwatering experience with each bite. The Korean BBQ Beef Bulgogi is a celebration of Korean barbecue traditions that will leave your taste buds craving more.",
+            "ingredients": [
+              "Beef slices",
+              "Soy sauce",
+              "Sugar",
+              "Sesame oil",
+              "Garlic and ginger"
+            ],
+            "cooking_method": "1. Marinate beef slices in a mixture of soy sauce, sugar, sesame oil, garlic, and ginger. 2. Grill until cooked to perfection. 3. Serve and enjoy this tantalizing Korean BBQ dish!"
+          },
+          {
+            "id": 34,
+            "rating":3,
+            "recipe_name": "Raspberry White Chocolate Cheesecake",
+            "chef_id": 4,
+            "chef_name": "Emily Davis",
+            "photo": "https://i.pinimg.com/564x/8c/33/b3/8c33b39c931f4577d15e1d12bef461dd.jpg",
+            "description": "Indulge your sweet senses with our Raspberry White Chocolate Cheesecake, a dessert delight by Pastry Chef Amelia Bennett. This creamy cheesecake features a luscious raspberry swirl and generous chunks of white chocolate, creating a perfect balance of tartness and sweetness. Chef Bennett's artistry in dessert creation ensures a velvety texture and an explosion of flavors in every forkful. The Raspberry White Chocolate Cheesecake is a decadent and irresistible treat for those with a penchant for delightful desserts.",
+            "ingredients": [
+              "Cream cheese",
+              "Raspberries",
+              "White chocolate",
+              "Sugar",
+              "Eggs"
+            ],
+            "cooking_method": "1. Prepare cheesecake batter with cream cheese, sugar, and eggs. 2. Swirl in raspberries and white chocolate chunks. 3. Bake until set. 4. Chill and indulge in this delightful and sweet cheesecake!"
+          },
+          {
+            "id": 35,
+            "rating":3.5,
+            "recipe_name": "Miso Glazed Black Cod",
+            "chef_id": 4,
+            "chef_name": "Emily Davis",
+            "photo": "https://i.pinimg.com/564x/19/75/52/1975523a401c237c5992a69c258bd3ec.jpg",
+            "description": "Elevate your seafood experience with our Miso Glazed Black Cod, a culinary masterpiece by Chef Hiroshi Takahashi. Black cod is marinated in a savory miso glaze, imparting a rich umami flavor, and then broiled to perfection. Chef Takahashi's expertise in Japanese cuisine ensures a delicate balance of sweetness and depth in every bite. The Miso Glazed Black Cod is a sophisticated and succulent dish that exemplifies the art of Japanese culinary craftsmanship.",
+            "ingredients": [
+              "Black cod",
+              "Miso glaze",
+              "Soy sauce",
+              "Sake",
+              "Mirin"
+            ],
+            "cooking_method": "1. Marinate black cod in a mixture of miso glaze, soy sauce, sake, and mirin. 2. Broil until the cod is cooked to perfection. 3. Serve and savor the elevated flavors of this Japanese culinary masterpiece!"
+          },
+          {
+            "id": 36,
+            "rating":4,
+            "recipe_name": "Cajun Crab Étouffée",
+            "chef_id": 4,
+            "chef_name": "Emily Davis",
+            "photo": "https://i.pinimg.com/564x/df/77/5a/df775a41f715c12fdf39b8596376870c.jpg",
+            "description": "Satisfy your craving for Cajun flavors with our Cajun Crab Étouffée, a spicy creation by Chef Antoine LeBlanc. Crab meat is lovingly simmered in a rich and flavorful Cajun roux, with a medley of vegetables and aromatic spices, creating a dish that is bold and hearty. Chef LeBlanc's dedication to Louisiana cuisine ensures an authentic and soulful experience with each spoonful. The Cajun Crab Étouffée is a delightful celebration of Gulf Coast flavors.",
+            "ingredients": [
+              "Crab meat",
+              "Cajun roux",
+              "Vegetables",
+              "Aromatic spices",
+              "Herbs"
+            ],
+            "cooking_method": "1. Simmer crab meat in a rich Cajun roux. 2. Add a medley of vegetables and aromatic spices. 3. Season with herbs. 4. Serve and enjoy this bold and hearty Cajun dish!"
+          },
+          {
+            "id": 37,
+            "rating":3.5,
+            "recipe_name": "Sesame Ginger Glazed Salmon",
+            "chef_id": 4,
+            "chef_name": "Emily Davis",
+            "photo": "https://i.pinimg.com/564x/ba/53/eb/ba53eb7d8fb3d9f7db85c0aaff28f040.jpg",
+            "description": "Experience the fusion of flavors with our Sesame Ginger Glazed Salmon, a culinary delight by Chef Mei Lin. Succulent salmon fillets are glazed with a harmonious blend of sesame and ginger sauce, then pan-seared to achieve a crispy exterior and moist interior. Chef Lin's expertise in Asian-inspired dishes ensures a perfect balance of sweet and savory notes. The Sesame Ginger Glazed Salmon is a sophisticated and flavorful option for seafood enthusiasts.",
+            "ingredients": [
+              "Salmon fillets",
+              "Sesame and ginger sauce",
+              "Soy sauce",
+              "Honey",
+              "Garlic"
+            ],
+            "cooking_method": "1. Glaze salmon fillets with sesame and ginger sauce, soy sauce, honey, and garlic. 2. Pan-sear until crispy on the outside and moist on the inside. 3. Serve and experience the fusion of flavors in this delightful salmon dish!"
+          },
+          {
+            "id": 38,
+            "rating":4.5,
+            "recipe_name": "Butternut Squash Risotto",
+            "chef_id": 4,
+            "chef_name": "Emily Davis",
+            "photo": "https://i.pinimg.com/564x/49/10/ab/4910abd7bfc98dd18681a5fd82660f57.jpg",
+            "description": "Indulge in the comforting flavors of our Butternut Squash Risotto, a gourmet creation by Chef Sofia DeLuca. Creamy arborio rice is lovingly cooked with tender butternut squash and Parmesan cheese, resulting in a rich and velvety risotto. Chef DeLuca's dedication to Italian cuisine ensures a perfect balance of textures and flavors in every spoonful. The Butternut Squash Risotto is a sophisticated and satisfying dish that captures the essence of fine dining.",
+            "ingredients": [
+              "Arborio rice",
+              "Butternut squash",
+              "Parmesan cheese",
+              "Vegetable broth",
+              "White wine"
+            ],
+            "cooking_method": "1. Cook arborio rice with tender butternut squash, Parmesan cheese, vegetable broth, and white wine. 2. Stir until creamy and velvety. 3. Serve and indulge in the comforting flavors of this gourmet risotto!"
+      },
+      {
+        "id": 39,
+        "rating":5,
+        "recipe_name": "Thai Basil Chicken Stir-Fry",
+        "chef_id": 4,
+        "chef_name": "Emily Davis",
+        "photo": "https://i.pinimg.com/564x/49/10/ab/4910abd7bfc98dd18681a5fd82660f57.jpg",
+        "description": "Embark on a flavor-packed journey with our Thai Basil Chicken Stir-Fry, a zesty creation by Chef Nongkran Siri. Tender chicken is stir-fried to perfection with fragrant Thai basil, chili, and a medley of vegetables, all coated in a savory sauce. Chef Siri's expertise in Thai cuisine ensures an authentic and fiery experience, with the perfect balance of sweet, savory, and spicy notes. The Thai Basil Chicken Stir-Fry is a vibrant and satisfying option for those craving bold Asian flavors.",
+        "ingredients": [
+          "Chicken",
+          "Thai basil",
+          "Chili",
+          "Vegetables",
+          "Soy sauce"
+        ],
+        "cooking_method": "1. Stir-fry chicken with Thai basil, chili, and a medley of vegetables. 2. Coat with a savory soy sauce. 3. Serve and embark on a flavor-packed journey with this zesty Thai Basil Chicken Stir-Fry!"
+      },
+      {
+        "id": 40,
+        "rating":4,
+        "recipe_name": "Nasi Lemak",
+        "chef_id": 5,
+        "chef_name": "Michael Brown",
+        "photo": "https://i.pinimg.com/564x/8d/12/ec/8d12ecd832b3ad9c5c14e6364013396a.jpg",
+        "description": "Indulge in Malaysia's national dish, Nasi Lemak, crafted by Chef Ahmad Ibrahim. Fragrant coconut rice takes center stage, accompanied by a delightful array of toppings such as crispy anchovies, roasted peanuts, boiled eggs, and a spicy sambal sauce. Chef Ibrahim's mastery in Malaysian cuisine ensures a harmonious blend of flavors and textures in every bite. Nasi Lemak is a beloved and iconic dish that represents the diverse culinary tapestry of Malaysia.",
+        "ingredients": [
+          "Coconut rice",
+          "Anchovies",
+          "Roasted peanuts",
+          "Boiled eggs",
+          "Sambal sauce"
+        ],
+        "cooking_method": "1. Prepare fragrant coconut rice. 2. Serve with crispy anchovies, roasted peanuts, boiled eggs, and spicy sambal sauce. 3. Indulge in the iconic flavors of Malaysia with this beloved Nasi Lemak!"
+      },
+      {
+        "id": 41,
+        "rating":4,
+        "recipe_name": "Char Kway Teow",
+        "chef_id": 5,
+        "chef_name": "Michael Brown",
+        "photo": "https://i.pinimg.com/564x/96/08/8e/96088ee8c34452d1c63362d827797cf4.jpg",
+        "description": "Satisfy your taste buds with the aromatic flavors of Char Kway Teow, expertly crafted by Chef Mei Ling. Flat rice noodles are stir-fried to perfection, mingling with succulent prawns, savory Chinese sausage, bean sprouts, and a flavorful soy-based sauce. Chef Ling's expertise in Malaysian street food ensures an authentic and tantalizing experience. Char Kway Teow is a delicious stir-fried delight that captures the essence of Malaysia's culinary heritage.",
+        "ingredients": [
+          "Rice noodles",
+          "Prawns",
+          "Chinese sausage",
+          "Bean sprouts",
+          "Soy-based sauce"
+        ],
+        "cooking_method": "1. Stir-fry rice noodles with prawns, Chinese sausage, bean sprouts, and a flavorful soy-based sauce. 2. Serve and savor the aromatic flavors of this Malaysian street food delight!"
+      },
+      {
+        "id": 42,
+        "rating":3.5,
+        "recipe_name": "Satay",
+        "chef_id": 5,
+        "chef_name": "Michael Brown",
+        "photo": "https://i.pinimg.com/564x/0c/a4/0a/0ca40a5a942a32777334b46702c5887d.jpg",
+        "description": "Embark on a flavor-packed journey with our Satay, a traditional Malaysian delight by Chef Faridah Hassan. Skewers of marinated meat, whether chicken, beef, or lamb, are expertly grilled and served with a rich and aromatic peanut sauce alongside a refreshing cucumber relish. Chef Hassan's dedication to authentic flavors ensures a satay experience that is both succulent and satisfying. Satay is a popular street food that brings people together to savor the essence of Malaysia's culinary diversity.",
+        "ingredients": [
+          "Chicken",
+          "Beef",
+          "Lamb",
+          "Marinade",
+          "Peanut sauce"
+        ],
+        "cooking_method": "1. Skewer and grill marinated chicken, beef, or lamb. 2. Serve with a rich peanut sauce and refreshing cucumber relish. 3. Enjoy the traditional flavors of Malaysian street food with this Satay delight!"
+      },
+      {
+        "id": 43,
+        "rating":3,
+        "recipe_name": "Roti Canai",
+        "chef_id": 5,
+        "chef_name": "Michael Brown",
+        "photo": "https://i.pinimg.com/564x/52/6a/76/526a7692d359883fe2361ab006078554.jpg",
+        "description": "Experience the delectable layers of Roti Canai, a Malaysian breakfast favorite curated by Chef Rajan Menon. This flaky and soft flatbread is skillfully prepared and served with a side of aromatic curry sauce for dipping. Chef Menon's expertise in Malaysian cuisine ensures that each bite is a delightful combination of textures and flavors. Roti Canai is not just a dish; it's a culinary experience that represents the warm hospitality and diverse influences of Malaysian cooking.",
+        "ingredients": [
+          "Flatbread",
+          "Curry sauce",
+          "Condiments",
+          "Vegetable curry"
+        ],
+        "cooking_method": "1. Prepare flaky and soft flatbread. 2. Serve with aromatic curry sauce and condiments. 3. Experience the delectable layers of Roti Canai, a Malaysian breakfast favorite!"
+      },
+      {
+        "id": 44,
+        "rating":5,
+        "recipe_name": "Laksa",
+        "chef_id": 5,
+        "chef_name": "Michael Brown",
+        "photo": "https://i.pinimg.com/564x/99/0f/bd/990fbd479c4a0e49f12909491078ad41.jpg",
+        "description": "Warm your soul with a bowl of Laksa, a comforting Malaysian noodle soup crafted by Chef Suraya Abdullah. This spicy delight features a coconut milk base, infused with a medley of prawns, chicken, and bean sprouts, creating a harmonious blend of rich and tangy flavors. Chef Abdullah's dedication to Malaysian culinary traditions ensures a Laksa experience that is both hearty and satisfying. Laksa is a bowl of warmth that reflects the diverse and vibrant flavors of Malaysia.",
+        "ingredients": ["Coconut milk", "Prawns", "Chicken", "Bean sprouts", "Spices"],
+        "cooking_method": "1. Prepare a coconut milk base infused with a medley of prawns, chicken, and bean sprouts. 2. Add spices for a rich and tangy flavor. 3. Serve and warm your soul with the comforting bowl of Laksa, a Malaysian noodle soup delight!"
+      },
+      {
+        "id": 45,
+        "rating":5,
+        "recipe_name": "Hainanese Chicken Rice",
+        "chef_id": 5,
+        "chef_name": "Michael Brown",
+        "photo": "https://i.pinimg.com/564x/be/9f/fc/be9ffca9a1aaa3c060f110167e46cd9e.jpg",
+        "description": "Delight in the simplicity of Hainanese Chicken Rice, a classic Malaysian dish curated by Chef Lim Siew Ling. Tender poached chicken is served with fragrant rice, accompanied by a gingery sauce and a flavorful chili sauce. Chef Ling's expertise in Malaysian-Chinese cuisine ensures a dish that is both comforting and full of subtle, aromatic nuances. Hainanese Chicken Rice is a testament to the artistry of Malaysian culinary traditions.",
+        "ingredients": ["Poached chicken", "Fragrant rice", "Gingery sauce", "Chili sauce"],
+        "cooking_method": "1. Poach chicken until tender. 2. Serve with fragrant rice, gingery sauce, and flavorful chili sauce. 3. Delight in the simplicity of Hainanese Chicken Rice, a classic Malaysian dish!"
+      },
+      {
+        "id": 46,
+        "rating":4.5,
+        "recipe_name": "Nasi Goreng",
+        "chef_id": 5,
+        "chef_name": "Michael Brown",
+        "photo": "https://i.pinimg.com/564x/a2/a1/aa/a2a1aa02d183d6151427a97a99a15511.jpg",
+        "description": "Savor the wok-tossed goodness of Nasi Goreng, a flavorful fried rice dish created by Chef Adnan Rahman. Fragrant rice is stir-fried to perfection, mingling with succulent prawns, tender chicken, and a medley of vegetables. Chef Rahman's expertise in Malaysian street food ensures a dish that is both hearty and bursting with umami. Nasi Goreng is a beloved staple that captures the essence of Malaysian culinary fusion.",
+        "ingredients": ["Fragrant rice", "Prawns", "Chicken", "Vegetables", "Spices"],
+        "cooking_method": "1. Stir-fry fragrant rice with prawns, chicken, and a medley of vegetables. 2. Season with aromatic spices. 3. Savor the wok-tossed goodness of Nasi Goreng, a Malaysian street food favorite!"
+      },
+      {
+        "id": 47,
+        "rating":4.5,
+        "recipe_name": "Cendol",
+        "chef_id": 5,
+        "chef_name": "Michael Brown",
+        "photo": "https://i.pinimg.com/564x/19/50/2c/19502ceec2156aeae2c69f3d464e98aa.jpg",
+        "description": "Cool off with the refreshing taste of Cendol, a traditional Malaysian dessert crafted by Chef Nurul Azizah. This chilled delight features green rice flour jelly, drizzled with creamy coconut milk, sweetened with palm sugar, and served over shaved ice. Chef Azizah's commitment to preserving Malaysian dessert traditions ensures a Cendol experience that is both sweet and satisfying. Cendol is a perfect treat to beat the tropical heat and indulge in the sweetness of Malaysian culinary heritage.",
+        "ingredients": ["Green rice flour jelly", "Coconut milk", "Palm sugar", "Shaved ice"],
+        "cooking_method": "1. Prepare green rice flour jelly. 2. Drizzle with creamy coconut milk and sweeten with palm sugar. 3. Serve over shaved ice for a refreshing Cendol experience!"
+      },
+      {
+        "id": 48,
+        "rating":3.5,
+        "recipe_name": "Murtabak",
+        "chef_id": 5,
+        "chef_name": "Michael Brown",
+        "photo": "https://i.pinimg.com/564x/af/c4/75/afc475484e9a4456991f519f187e1b44.jpg",
+        "description": "Experience the savory indulgence of Murtabak, a Malaysian street food favorite by Chef Haris Ibrahim. Stuffed with a delectable mixture of meat, eggs, and spices, the flatbread is pan-fried to perfection. Chef Ibrahim's expertise in creating flavorful fillings ensures that each bite is a burst of deliciousness. Murtabak is not just a snack; it's a culinary journey through the vibrant street food scene of Malaysia.",
+        "ingredients": ["Meat", "Eggs", "Spices", "Flatbread"],
+        "cooking_method": "1. Prepare"
+    },
+    {
+        "id": 49,
+        "rating":3.5,
+        "recipe_name": "Mandi",
+        "chef_id": 8,
+        "chef_name": "Olivia Taylor",
+        "photo": "https://i.pinimg.com/564x/10/08/0c/10080c37d1dbe21457989cd296252070.jpg",
+        "description": "Embark on a flavorful journey with Mandi, a traditional rice and meat dish curated by Chef Ahmed Al-Qasimi. Slow-cooked with aromatic spices, the meat is tender and infused with rich flavors. Served with a side of sauce, Mandi is a dish that captures the essence of Emirati hospitality and culinary traditions. Chef Al-Qasimi's expertise ensures a Mandi experience that is both hearty and memorable.",
+        "ingredients": ["Rice", "Meat", "Aromatic spices", "Sauce"],
+        "cooking_method": "1. Slow-cook meat with aromatic spices until tender. 2. Serve over rice with a side of sauce. 3. Embark on a flavorful journey with Mandi, a traditional Emirati dish!"
+      },
+      {
+        "id": 50,
+        "rating":4.5,
+        "recipe_name": "Butter Chicken (Murgh Makhani)",
+        "chef_id": 6,
+        "chef_name": "Sarah Wilson",
+        "photo": "https://i.pinimg.com/564x/bc/29/4d/bc294dda4bde22c27cc4532d4d8c43ea.jpg",
+        "description": "Indulge in the rich and flavorful Butter Chicken, a North Indian classic curated by Chef Vikram Singh. Tender pieces of chicken are simmered in a velvety tomato-based curry, enriched with butter and a blend of aromatic spices. Chef Singh's expertise in Indian cuisine ensures a dish that is both comforting and indulgent. Butter Chicken is a beloved dish that captures the essence of the rich and diverse flavors of North India.",
+        "ingredients": ["Chicken", "Tomato-based curry", "Butter", "Aromatic spices"],
+        "cooking_method": "1. Simmer chicken in a velvety tomato-based curry enriched with butter. 2. Add a blend of aromatic spices. 3. Indulge in the rich and flavorful Butter Chicken, a North Indian classic!"
+      },
+      {
+        "id": 51,
+        "rating":4,
+        "recipe_name": "Paneer Tikka Masala",
+        "chef_id": 6,
+        "chef_name": "Sarah Wilson",
+        "photo": "https://i.pinimg.com/564x/2f/0c/9d/2f0c9dc35f23d43c12926299aed2ca37.jpg",
+        "description": "Savor the vegetarian delight of Paneer Tikka Masala, a flavorful dish crafted by Chef Meera Patel. Grilled paneer cubes are bathed in a luscious tomato-based curry, enriched with cream and a blend of aromatic spices. Chef Patel's expertise in Indian vegetarian cuisine ensures a dish that is both hearty and full of robust flavors. Paneer Tikka Masala is a culinary journey through the vibrant and diverse world of Indian vegetarian fare.",
+        "ingredients": ["Paneer cubes", "Tomato-based curry", "Cream", "Aromatic spices"],
+        "cooking_method": "1. Grill paneer cubes. 2. Bathe in a luscious tomato-based curry enriched with cream. 3. Savor the vegetarian delight of Paneer Tikka Masala, an Indian classic!"
+      },
+      {
+        "id": 52,
+        "rating":5,
+        "recipe_name": "Biryani",
+        "chef_id": 6,
+        "chef_name": "Sarah Wilson",
+        "photo": "https://i.pinimg.com/564x/f7/37/80/f7378044a24585b1394ae95247c4f442.jpg",
+        "description": "Experience the regal flavors of Biryani, a classic Indian rice dish curated by Chef Raj Kapoor. Fragrant basmati rice is layered with succulent meat, be it chicken or mutton, and a symphony of aromatic spices and herbs. Chef Kapoor's expertise in biryani ensures a dish that is not just a meal but a celebration of flavors and textures. Biryani is a culinary masterpiece that reflects the grandeur of Indian cuisine.",
+        "ingredients": ["Basmati rice", "Meat", "Aromatic spices", "Herbs"],
+        "cooking_method": "1. Layer fragrant basmati rice with succulent meat and aromatic spices. 2. Cook to perfection for a regal Biryani experience. 3. Experience the grandeur of Indian cuisine with Biryani!"
+      },
+        {
+          "id": 53,
+          "rating":3.5,
+          "recipe_name": "Masala Dosa",
+          "chef_id": 6,
+          "chef_name": "Sarah Wilson",
+          "photo": "https://i.pinimg.com/564x/ed/39/5a/ed395a2799679158edc7f2cc3520bb69.jpg",
+          "description": "Start your day with the South Indian delight of Masala Dosa, crafted by Chef Aishwarya Nair. A crispy rice crepe enfolds a spiced potato filling, creating a delightful combination of textures. Served with coconut chutney and tangy sambar, Chef Nair's expertise ensures a dosa experience that is both crisp and flavorful. Masala Dosa is not just a breakfast item; it's a beloved South Indian culinary tradition.",
+          "ingredients": ["Rice crepe", "Spiced potato filling", "Coconut chutney", "Tangy sambar"],
+          "cooking_method": "1. Prepare a crispy rice crepe. 2. Fill with spiced potato filling. 3. Serve with coconut chutney and tangy sambar for a delightful Masala Dosa experience!"
+        },
+        {
+          "id": 54,
+          "rating":4.5,
+          "recipe_name": "Chole Bhature",
+          "chef_id": 6,
+          "chef_name": "Sarah Wilson",
+          "photo": "https://i.pinimg.com/564x/7f/5b/48/7f5b48070a19fb9a78f2a50b85a82a6a.jpg",
+          "description": "Indulge in the hearty flavors of Chole Bhature, a North Indian favorite curated by Chef Rahul Verma. Spiced chickpea curry, known as Chole, is paired with deep-fried bread, Bhature, creating a satisfying and flavorful combination. Chef Verma's expertise in North Indian street food ensures a dish that is both indulgent and full of robust flavors. Chole Bhature is a culinary journey through the vibrant and diverse street food culture of North India.",
+          "ingredients": ["Spiced chickpea curry", "Deep-fried bread"],
+          "cooking_method": "1. Prepare spiced chickpea curry. 2. Deep-fry bread. 3. Indulge in the hearty flavors of Chole Bhature, a North Indian street food favorite!"
+        },
+        {
+          "id": 55,
+          "rating":5,
+          "recipe_name": "Tandoori Naan with Garlic Butter",
+          "chef_id": 6,
+          "chef_name": "Sarah Wilson",
+          "photo": "https://i.pinimg.com/564x/10/9b/fc/109bfc0ac3feafe252e4b213cf5b91ea.jpg",
+          "description": "Enhance your meal with the delightful Tandoori Naan with Garlic Butter, a creation by Chef Ananya Kapoor. Soft and fluffy tandoor-baked bread is brushed with a generous layer of garlic-infused butter, creating a perfect balance of warmth and flavor. Chef Kapoor's expertise in Indian breads ensures a naan experience that is both pillowy and aromatic. Tandoori Naan with Garlic Butter is a versatile and delicious accompaniment to various Indian dishes.",
+          "ingredients": ["Tandoor-baked bread", "Garlic-infused butter"],
+          "cooking_method": "1. Bake soft and fluffy tandoor-baked bread. 2. Brush with a generous layer of garlic-infused butter. 3. Enhance your meal with the delightful Tandoori Naan with Garlic Butter!"
+        },
+        {
+          "id": 56,
+          "rating":4.5,
+          "recipe_name": "Rogan Josh",
+          "chef_id": 6,
+          "chef_name": "Sarah Wilson",
+          "photo": "https://i.pinimg.com/564x/8d/36/87/8d3687df07d599780dede172ffc0e48d.jpg",
+          "description": "Delight in the robust flavors of Rogan Josh, a slow-cooked curry masterpiece by Chef Arjun Malik. Tender lamb or mutton is simmered in a rich tomato-based curry, infused with aromatic spices, creating a dish that is both hearty and soul-satisfying. Chef Malik's expertise in Indian curries ensures a Rogan Josh experience that captures the essence of the Kashmiri culinary tradition. Rogan Josh is a flavorful journey through the diverse world of Indian curries.",
+          "ingredients": ["Lamb or mutton", "Tomato-based curry", "Aromatic spices"],
+          "cooking_method": "1. Slow-cook lamb or mutton in a rich tomato-based curry infused with aromatic spices. 2. Delight in the robust flavors of Rogan Josh, a slow-cooked curry masterpiece!"
+        },
+        {
+          "id": 57,
+          "rating":4,
+          "recipe_name": "Aloo Paratha",
+          "chef_id": 6,
+          "chef_name": "Sarah Wilson",
+          "photo": "https://i.pinimg.com/564x/aa/e6/2a/aae62a3eef26996dd2648355f638def6.jpg",
+          "description": "Enjoy the comfort of Aloo Paratha, a North Indian stuffed bread curated by Chef Sanjeev Mehta. Whole wheat flatbread is generously stuffed with spiced mashed potatoes and cooked to perfection on a griddle. Served with a side of yogurt, Chef Mehta's expertise ensures an Aloo Paratha experience that is both wholesome and flavorful. Aloo Parathais a beloved North Indian breakfast staple that embodies the simplicity and warmth of Indian home cooking.",
+          "ingredients": ["Whole wheat flatbread", "Spiced mashed potatoes", "Yogurt"],
+          "cooking_method": "1. Generously stuff whole wheat flatbread with spiced mashed potatoes. 2. Cook to perfection on a griddle. 3. Serve with a side of yogurt for a wholesome and flavorful Aloo Paratha experience!"
+          },
+          {
+          "id": 58,
+          "rating":3,
+          "recipe_name": "Palak Paneer",
+          "chef_id": 6,
+          "chef_name": "Sarah Wilson",
+          "photo": "https://i.pinimg.com/564x/06/6a/36/066a363bb1fdfb8b87c9901489ea7ae1.jpg",
+          "description": "Delight in the green goodness of Palak Paneer, a vegetarian classic crafted by Chef Neha Sharma. Creamy spinach curry envelopes cubes of paneer (Indian cottage cheese), creating a dish that is both nutritious and delicious. Chef Sharma's expertise in Indian vegetarian cuisine ensures a Palak Paneer experience that is rich in flavor and full of vibrant green hues. Palak Paneer is a comforting and wholesome dish that celebrates the beauty of Indian vegetarian cooking.",
+          "ingredients": ["Spinach curry", "Paneer cubes"],
+          "cooking_method": "1. Prepare creamy spinach curry. 2. Envelop paneer cubes in the curry. 3. Delight in the green goodness of Palak Paneer, a vegetarian classic!"
+          },
+          {
+          "id": 59,
+          "rating":4,
+          "recipe_name": "Esh Asaraya",
+          "chef_id": 8,
+          "chef_name": "Olivia Taylor",
+          "photo": "https://i.pinimg.com/564x/14/5e/39/145e390639a97d43f3005bbe341a8d43.jpg",
+          "description": "Indulge your sweet cravings with Esh Asaraya, a layered dessert curated by Chef Youssef Al-Mansoori. Featuring sweetened bread, layers of cream, and a generous topping of Qishta (clotted cream), Esh Asaraya is a delightful treat for dessert enthusiasts. Chef Al-Mansoori's expertise in Emirati desserts ensures an Esh Asaraya experience that is both decadent and comforting. This dessert is often enjoyed during special occasions and celebrations in Dubai.",
+          "ingredients": ["Sweetened bread", "Layers of cream", "Qishta (clotted cream)"],
+          "cooking_method": "1. Layer sweetened bread with cream. 2. Add layers of cream and a generous topping of Qishta. 3. Indulge your sweet cravings with Esh Asaraya, a decadent Emirati dessert!"
+          },
+          {
+          "id": 60,
+          "rating":5,
+          "recipe_name": "Bhapa Ilish",
+          "chef_id": 7,
+          "chef_name": "Robert Miller",
+          "photo": "https://i.pinimg.com/564x/a2/17/87/a21787cc0befe719b89409849588b553.jpg",
+          "description": "Savor the exquisite flavors of Bhapa Ilish, a traditional Bengali delicacy curated by Chef Anwar Islam. Hilsa fish, known as Ilish, is marinated in a pungent mustard paste, wrapped in banana leaf, and then steamed to perfection. Chef Islam's expertise in Bangladeshi cuisine ensures a dish that is both aromatic and rich in coastal flavors. Bhapa Ilish is a culinary journey through the cultural tapestry of Bengali seafood delights.",
+          "ingredients": ["Hilsa fish", "Mustard paste", "Banana leaf"],
+          "cooking_method": "1. Marinate Hilsa fish in a pungent mustard paste. 2. Wrap in banana leaf. 3. Steam to perfection for the exquisite flavors of Bhapa Ilish!"
+          },
+          {
+          "id": 61,
+          "rating":4.5,
+          "recipe_name": "Panta Bhat with Shorshe Ilish",
+          "chef_id": 7,
+          "chef_name": "Robert Miller",
+          "photo": "https://i.pinimg.com/564x/6d/e8/a5/6de8a549dfd6ad1dfb6b9dd76240b1b0.jpg",
+          "description": "Celebrate Bengali New Year with the traditional dish of Panta Bhat with Shorshe Ilish, crafted by Chef Fatima Rahman. Fermented rice, known as Panta Bhat, is soaked in water and served with Hilsa fish marinated in a tangy mustard sauce, Shorshe Ilish. Chef Rahman's expertise in Bangladeshi festive cuisine ensures a dish that is both symbolic and flavorful. Panta Bhat with Shorshe Ilish is a cultural delight that marks the joyous occasion of Bengali New Year.",
+          "ingredients": ["Fermented rice (Panta Bhat)", "Hilsa fish", "Tangy mustard sauce (Shorshe Ilish)"],
+          "cooking_method": "1. Soak fermented rice in water. 2. Serve with Hilsa fish marinated in tangy mustard sauce. 3. Celebrate Bengali New Year with the cultural delight of Panta Bhat with Shorshe Ilish!"
+          },
+          {
+          "id": 62,
+          "rating":3.5,
+          "recipe_name": "Dhaka Biryani",
+          "chef_id": 7,
+          "chef_name": "Robert Miller",
+          "photo": "https://i.pinimg.com/564x/44/0b/91/440b910a7cffe1636906ecdf70201eba.jpg",
+          "description": "Indulge in the aromatic delights of Dhaka Biryani, a flavorful creation by Chef Farida Akhtar. Fragrant basmati rice is layered with spiced meat, whether chicken or mutton, and potatoes, creating a dish that is both hearty and rich in spices. Chef Akhtar's expertise in Bangladeshi biryani ensures a culinary experience that reflects the flavors of Dhaka. Dhaka Biryani is a beloved dish that captures the essence of Bangladeshi festive feasts.",
+          "ingredients": ["Fragrant basmati rice", "Spiced meat (chicken or mutton)", "Potatoes"],
+          "cooking_method": "1. Layer fragrant basmati rice with spiced meat and potatoes. 2. Indulge in the aromatic delights of Dhaka Biryani, a flavorful Bangladeshi festive dish!"
+          },
+          {
+          "id": 63,
+          "rating":5,
+          "recipe_name": "Shorshe Maach",
+          "chef_id": 7,
+          "chef_name": "Robert Miller",
+          "photo": "https://i.pinimg.com/564x/76/8e/f6/768ef677590fc5f3cb9b4c50b7243da6.jpg",
+          "description": "Satisfy your taste buds with the zesty flavors of Shorshe Maach, a Bengali fish curry crafted by Chef Kamal Hasan. Fish is simmered in a vibrant curry made with mustard paste, green chilies, and an array of aromatic spices, creating a dish that is both tangy and flavorful. Chef Hasan's expertise in Bangladeshi seafood ensures a Shorshe Maach experience that is a delightful journey through coastal Bengali cuisine.",
+          "ingredients": ["Fish", "Mustard paste", "Green chilies", "Aromatic spices"],
+          "cooking_method": "1. Simmer fish in a vibrant curry made with mustard paste, green chilies, and aromatic spices. 2. Satisfy your taste buds with the zesty flavors of Shorshe Maach, a Bengali fish curry delight!"
+      },
+      
+      
+{
+    "id": 64,
+    "rating":4,
+    "recipe_name": "Fuchka (Puchka/Pani Puri)",
+    "chef_id": 7,
+    "chef_name": "Robert Miller",
+    "photo": "https://i.pinimg.com/564x/50/e4/43/50e443c0d6cbf46f8197ea1c3699b136.jpg",
+    "description": "Experience the burst of flavors with Fuchka, a popular street food delight curated by Chef Nazia Ahmed. Hollow crispy puris are filled with a mixture of tangy tamarind water, mashed potatoes, and an assortment of spices, creating a dish that is both crunchy and savory. Chef Ahmed's expertise in Bangladeshi street food ensures a Fuchka experience that is a symphony of textures and tastes. Fuchka is a beloved snack that brings joy to street food enthusiasts across Bangladesh.",
+    "ingredients": ["Hollow crispy puris", "Tangy tamarind water", "Mashed potatoes", "Assortment of spices"],
+    "cooking_method": "1. Fill hollow crispy puris with a mixture of tangy tamarind water, mashed potatoes, and an assortment of spices. 2. Experience the burst of flavors with Fuchka, a delightful Bangladeshi street food!"
+    },
+    {
+    "id": 65,
+    "rating":3,
+    "recipe_name": "Kacchi Biryani",
+    "chef_id": 7,
+    "chef_name": "Robert Miller",
+    "photo": "https://i.pinimg.com/564x/9d/9c/15/9d9c15d49cf1a9ee0eaef3beb28133bc.jpg",
+    "description": "Delight in the flavors of Kacchi Biryani, a slow-cooked culinary masterpiece by Chef Imran Khan. Marinated raw meat, typically mutton, is layered with fragrant rice and slow-cooked to perfection, creating a dish that is both tender and aromatic. Chef Khan's expertise in Bangladeshi biryani ensures a Kacchi Biryani experience that captures the essence of slow-cooked perfection. Kacchi Biryani is a beloved dish that graces festive tables and special occasions in Bangladesh.",
+    "ingredients": ["Marinated raw meat (typically mutton)", "Fragrant rice"],
+    "cooking_method": "1. Layer marinated raw meat with fragrant rice. 2. Slow-cook to perfection for a delightful Kacchi Biryani experience!"
+    },
+    {
+    "id": 66,
+    "rating":4,
+    "recipe_name": "Bhorta",
+    "chef_id": 7,
+    "chef_name": "Robert Miller",
+    "photo": "https://i.pinimg.com/564x/df/b3/a5/dfb3a563984dd0a4c3dde36b6240cab3.jpg",
+    "description": "Savor the comforting flavors of Bhorta, a traditional Bengali dish curated by Chef Rashida Begum. Mashed spiced vegetables, fish, or meat are served with rice, creating a dish that is both homely and flavorful. Chef Begum's expertise in Bangladeshi comfort food ensures a Bhorta experience that is a celebration of simple, yet delicious, Bengali cuisine. Bhorta is a versatile dish that reflects the heartwarming essence of Bangladeshi home-cooked meals.",
+    "ingredients": ["Mashed spiced vegetables, fish, or meat", "Rice"],
+    "cooking_method": "1. Serve mashed spiced vegetables, fish, or meat with rice for a comforting Bhorta experience!"
+    },
+    {
+    "id": 67,
+    "rating":5,
+    "recipe_name": "Bengali Sweets - Rosogolla",
+    "chef_id": 7,
+    "chef_name": "Robert Miller",
+    "photo": "https://i.pinimg.com/564x/34/cf/63/34cf6386c850d334889c17ce6b235657.jpg",
+    "description": "Indulge in the sweet delights of Rosogolla, a beloved Bengali sweet curated by Chef Ananya Das. Soft and spongy cottage cheese balls are soaked in a delicate sugar syrup, creating a dessert that is both light and delightful. Chef Das's expertise in Bengali sweets ensures a Rosogolla experience that is a celebration of Bengal's rich culinary heritage. Rosogolla is a quintessential sweet that adds a touch of sweetness to festive occasions in Bangladesh.",
+    "ingredients": ["Soft and spongy cottage cheese balls", "Delicate sugar syrup"],
+    "cooking_method": "1. Soak soft and spongy cottage cheese balls in a delicate sugar syrup. 2. Indulge in the sweet delights of Rosogolla, a quintessential Bengali sweet!"
+    },
+    {
+    "id": 68,
+    "rating":4.5,
+    "recipe_name": "Shatkora Murgh",
+    "chef_id": 7,
+    "chef_name": "Robert Miller",
+    "ingredients": ["Chickpea or fava bean patties", "Flatbread", "Creamy tahini sauce"],
+    "photo": "https://i.pinimg.com/564x/78/7f/06/787f064e0afb9bf5e24c6d3263274d30.jpg",
+    "description": "Delight in the unique flavors of Shatkora Murgh, a zesty chicken curry crafted by Chef Sultana Rahman. Chicken is simmered in a curry made with Shatkora, a native citrus fruit, creating a dish that is both tangy and aromatic. Chef Rahman's expertise in Bangladeshi cuisine ensures a Shatkora Murgh experience"
+    },
+    {
+    "id": 69,
+    "rating":4,
+    "recipe_name": "Falafel",
+    "chef_id": 8,
+    "chef_name": "Olivia Taylor",
+    "photo": "https://i.pinimg.com/564x/5b/84/34/5b8434a0634038c71488f8069d204f06.jpg",
+    "description": "Delight in the crispy goodness of Falafel, deep-fried chickpea or fava bean patties curated by Chef Leila Al-Hamdi. Served in flatbread with creamy tahini sauce, these flavorful patties offer a perfect blend of textures and tastes. Chef Al-Hamdi's expertise in Emirati street food ensures a Falafel experience that is both satisfying and delicious. Falafel is a popular choice for a quick and tasty snack in Dubai.",
+    "ingredients": ["Chickpea or fava bean patties", "Flatbread", "Creamy tahini sauce"],
+    "cooking_method": "1. Deep-fry chickpea or fava bean patties. 2. Serve in flatbread with creamy tahini sauce for a crispy and delightful Falafel experience!"
+    },
+    {
+    "id": 70,
+    "rating":4.5,
+    "recipe_name": "Al Harees",
+    "chef_id": 8,
+    "chef_name": "Olivia Taylor",
+    "photo": "https://i.pinimg.com/564x/b7/ef/3f/b7ef3ffb1713562d66573cd01c4dd817.jpg",
+    "description": "Experience the tradition of Ramadan with Al Harees, a slow-cooked delicacy crafted by Chef Fatima Al-Mansoori. This dish features a blend of meat, wheat, and a pinch of salt, slow-cooked to perfection in clay pots. Chef Al-Mansoori's expertise in Emirati cuisine ensures an Al Harees experience that is both comforting and rich in cultural significance. Al Harees is a symbol of togetherness and celebration during the holy month of Ramadan in Dubai.",
+    "ingredients": ["Meat", "Wheat", "Pinch of salt"],
+    "cooking_method": "1. Blend meat, wheat, and a pinch of salt. 2. Slow-cook to perfection in clay pots for a comforting Al Harees experience!"
+    },
+    {
+    "id": 71,
+    "rating":5,
+    "recipe_name": "Machboos",
+    "chef_id": 8,
+    "chef_name": "Olivia Taylor",
+    "photo": "https://i.pinimg.com/564x/ac/fc/0d/acfc0d4b2eda7c8342ba789f67d915a5.jpg",
+    "description": "Indulge in the aromatic flavors of Machboos, a spiced rice dish curated by Chef Ahmed Al-Sabah. Featuring meat, whether chicken, lamb, or fish, this dish is infused with a blend of aromatic spices, creating a flavorful and hearty meal. Chef Al-Sabah's expertise in Emirati cuisine ensures a Machboos experience that is both festive and satisfying. Machboos is a celebration of flavors that graces tables during special occasions in Dubai.",
+    "ingredients": ["Meat (chicken, lamb, or fish)", "Aromatic spices"],
+    "cooking_method": "1. Infuse meat with a blend of aromatic spices. 2. Indulge in the aromatic flavors of Machboos, a festive Emirati spiced rice dish!"
+    },
+    {
+    "id": 72,
+    "rating":3.5,
+    "recipe_name": "Luqaimat",
+    "chef_id": 8,
+    "chef_name": "Olivia Taylor",
+    "photo": "https://i.pinimg.com/564x/df/bd/52/dfbd527c2ed96d8f5913e4fbf366b6d5.jpg",
+    "description": "Satisfy your sweet tooth with the delightful taste of Luqaimat, sweet dumplings curated by Chef Amina Al-Hassan. Deep-fried to golden perfection, these bite-sized delights are drizzled with luscious date syrup or honey, creating a dessert that is both crunchy and sweet. Chef Al-Hassan's expertise in Emirati sweets ensures a Luqaimat experience that is a celebration of Dubai's dessert culture. Luqaimat is a popular treat during festive occasions and family gatherings in Dubai.",
+    "ingredients": ["Sweet dumplings", "Luscious date syrup or honey"],
+    "cooking_method": "1. Deep-fry sweet dumplings to golden perfection. 2. Drizzle with luscious date syrup or honey for a delightful Luqaimat experience!"
+    },
+    {
+    "id": 73,
+    "rating":3,
+    "recipe_name": "Shawarma",
+    "chef_id": 8,
+    "chef_name": "Olivia Taylor",
+    "photo": "https://i.pinimg.com/564x/64/fe/3d/64fe3d7a76e9923481433f72c6c532e9.jpg",
+    "description": "Savor the street food delight of Shawarma, grilled meat wrapped in flatbread, curated by Chef Omar Ahmed. Whether it's chicken or beef, the meat is seasoned and grilled to perfection, then wrapped in flatbread with garlic sauce and pickles. Chef Ahmed's expertise in Emirati street food ensures a Shawarma experience that is both savory and satisfying. Shawarma is a go-to street food option enjoyed by locals and visitors alike in Dubai.",
+    "ingredients": ["Grilled meat (chicken or beef)", "Flatbread", "Garlic sauce", "Pickles"],
+    "cooking_method": "1. Season and grill meat to perfection. 2. Wrap in flatbread with garlic sauce and pickles for a savory Shawarma experience!"
+    
+    },
+    {
+    "id": 74,
+    "rating":4,
+    "recipe_name": "Arabic Coffee (Gahwa)",
+    "chef_id": 8,
+    "chef_name": "Olivia Taylor",
+    "photo": "https://i.pinimg.com/564x/1f/f5/5b/1ff55b856e3b846c927c3f6d96e55474.jpg",
+    "description": "Experience the rich aroma of Arabic Coffee, known as Gahwa, curated by Chef Noura Al-Farsi. Strong coffee infused with cardamom is served in small cups, accompanied by sweet dates on the side. Chef Al-Farsi's expertise in traditional Emirati beverages ensures an Arabic Coffee experience that is both aromatic and invigorating. Arabic Coffee is a symbol of hospitality and is often served during social gatherings in Dubai.",
+    "ingredients": ["Strong coffee infused with cardamom", "Sweet dates"],
+    "cooking_method": "1. Serve strong coffee infused with cardamom in small cups. 2. Accompany with sweet dates for a rich and aromatic Arabic Coffee experience!"
+    },
+    {
+    "id": 75,
+    "rating":4,
+    "recipe_name": "Kunafa",
+    "chef_id": 8,
+    "chef_name": "Olivia Taylor",
+    "photo": "https://i.pinimg.com/564x/df/7b/77/df7b778dc0e385ea7e72a059754391c6.jpg",
+    "description": "Indulge in the sweet layers of Kunafa, a delectable pastry dessert curated by Chef Hassan Al-Mazrouei. Featuring layers of pastry filled with sweet cheese or nuts, Kunafa is baked to golden perfection and soaked in fragrant sugar syrup. Chef Al-Mazrouei's",
+    "ingredients": ["Layers of pastry", "Sweet cheese or nuts", "Fragrant sugar syrup"],
+    "cooking_method": "1. Fill layers of pastry with sweet cheese or nuts. 2. Bake to golden perfection and soak in fragrant sugar syrup for a delectable Kunafa experience!"
+    }
+    ]
+  
+  
